@@ -2,17 +2,38 @@
   "music": [
     {
       "title": "BlackEyedPeas - Dont You Worry",
-      "url": "music/BlackEyedPeas_DontYouWorry.mp4",
+      "url": "demo/music/BlackEyedPeas_DontYouWorry.mp4",
       "duration": "00:01:01",
       "size_gb": 0.447,
       "filetype": "mp4"
     },
     {
       "title": "Billie Eilish - ilomilo",
-      "url": "music/Billie_Eilish_ilomilo.webm",
+      "url": "demo/music/Billie_Eilish_ilomilo.webm",
       "duration": "00:03:00",
       "size_gb": 0.009,
       "filetype": "webm"
+    },
+    {
+      "title": "Can't Fight City Halloween The Batman",
+      "url": "demo/music/Cant_Fight_City_Halloween_The_Batman.mp4",
+      "duration": "00:04:04",
+      "size_gb": 0.015,
+      "filetype": "mp4"
+    },
+    {
+      "title": "Christian McBride Jazz Live",
+      "url": "demo/music/Christian_McBride_Jazz_Live.mp4",
+      "duration": "00:02:52",
+      "size_gb": 1.49,
+      "filetype": "mp4"
+    },
+    {
+      "title": "D&B Metrik",
+      "url": "demo/music/D_And_B_Metrik.mp4",
+      "duration": "00:03:35",
+      "size_gb": 0.002,
+      "filetype": "mp4"
     }
   ]
 }
